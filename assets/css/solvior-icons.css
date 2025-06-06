@@ -1,0 +1,167 @@
+@font-face {
+  font-family: "solvior-icons";
+  src: url("../fonts/solvior-icons.eot?wmr4q0");
+  src: url("../fonts/solvior-icons.eot?wmr4q0#iefix") format("embedded-opentype"), url("../fonts/solvior-icons_wmr4q0.ttf") format("truetype"), url("../fonts/solvior-icons.woff?wmr4q0") format("woff"),
+    url("../fonts/solvior-icons.svg?wmr4q0#solvior-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="tji-"],
+[class*=" tji-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "solvior-icons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tji-angle-up:before {
+  content: "\e92e";
+}
+.tji-operations:before {
+  content: "\e916";
+}
+.tji-process-1:before {
+  content: "\e917";
+}
+.tji-manage:before {
+  content: "\e918";
+}
+.tji-strategy:before {
+  content: "\e919";
+}
+.tji-performance:before {
+  content: "\e92c";
+}
+.tji-organize:before {
+  content: "\e92d";
+}
+.tji-reply:before {
+  content: "\e900";
+}
+.tji-calender:before {
+  content: "\e901";
+}
+.tji-coments:before {
+  content: "\e902";
+}
+.tji-square-cube:before {
+  content: "\e903";
+}
+.tji-minus:before {
+  content: "\e904";
+}
+.tji-plus:before {
+  content: "\e905";
+}
+.tji-personalization:before {
+  content: "\e906";
+}
+.tji-quick:before {
+  content: "\e907";
+}
+.tji-results:before {
+  content: "\e908";
+}
+.tji-brand:before {
+  content: "\e909";
+}
+.tji-paper-plane:before {
+  content: "\e90a";
+}
+.tji-single-cube:before {
+  content: "\e90b";
+}
+.tji-cube:before {
+  content: "\e90c";
+}
+.tji-left-quote:before {
+  content: "\e90d";
+}
+.tji-right-quote:before {
+  content: "\e90e";
+}
+.tji-double-check:before {
+  content: "\e90f";
+}
+.tji-business:before {
+  content: "\e910";
+}
+.tji-executive:before {
+  content: "\e911";
+}
+.tji-leadership:before {
+  content: "\e912";
+}
+.tji-optimization:before {
+  content: "\e913";
+}
+.tji-process:before {
+  content: "\e914";
+}
+.tji-strategic:before {
+  content: "\e915";
+}
+.tji-angle-down:before {
+  content: "\e91a";
+}
+.tji-angle-left:before {
+  content: "\e91b";
+}
+.tji-angle-right:before {
+  content: "\e91c";
+}
+.tji-arrow-up:before {
+  content: "\e91d";
+}
+.tji-arrow-bown:before {
+  content: "\e91e";
+}
+.tji-arrow-left:before {
+  content: "\e91f";
+}
+.tji-arrow-right:before {
+  content: "\e920";
+}
+.tji-check:before {
+  content: "\e921";
+}
+.tji-clock:before {
+  content: "\e922";
+}
+.tji-location:before {
+  content: "\e923";
+}
+.tji-phone:before {
+  content: "\e924";
+}
+.tji-email:before {
+  content: "\e925";
+}
+.tji-chat:before {
+  content: "\e926";
+}
+.tji-globe:before {
+  content: "\e927";
+}
+.tji-play:before {
+  content: "\e928";
+}
+.tji-search:before {
+  content: "\e929";
+}
+.tji-star-2:before {
+  content: "\e92a";
+}
+.tji-star:before {
+  content: "\e92b";
+}
